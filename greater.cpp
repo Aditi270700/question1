@@ -1,3 +1,4 @@
+// write a programm to greater number
 #include <iostream>
 using namespace std;
 int main(){
